@@ -1,0 +1,56 @@
+[
+  {
+    "name": "funds",
+    "path": "/funds",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\funds.vue",
+    "chunkName": "pages/funds"
+  },
+  {
+    "name": "issues",
+    "path": "/issues",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\issues.vue",
+    "chunkName": "pages/issues"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "notifications",
+    "path": "/notifications",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\projects.vue",
+    "chunkName": "pages/projects"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\users.vue",
+    "chunkName": "pages/users"
+  },
+  {
+    "name": "violations",
+    "path": "/violations",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\violations.vue",
+    "chunkName": "pages/violations"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "chat-id",
+    "path": "/chat/:id?",
+    "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\chat\\\\_id.vue",
+    "chunkName": "pages/chat/_id"
+  }
+]

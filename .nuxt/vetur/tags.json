@@ -1,0 +1,17 @@
+{
+  "FullProjectOffer": {
+    "description": "Auto imported from components/fullProjectOffer.vue"
+  },
+  "HourProjectOffer": {
+    "description": "Auto imported from components/hourProjectOffer.vue"
+  },
+  "PhaseProjectOffer": {
+    "description": "Auto imported from components/phaseProjectOffer.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/search.vue"
+  },
+  "Stats": {
+    "description": "Auto imported from components/stats.vue"
+  }
+}
