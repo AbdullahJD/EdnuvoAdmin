@@ -2,6 +2,16 @@
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  server: {
+    port: 3001, // تغيير المنفذ إلى 3001
+    host: '0.0.0.0', // التأكد من السماح بالوصول من أي عنوان IP
+  },
+
+  router: {
+    base: '/admin', // تأكد من أن التطبيق يتوقع العمل في المسار /admin
+    middleware: ['auth'], // إذا كنت تستخدم middleware للتحقق من الدخول
+  },
+
   head: {
     titleTemplate: '%s - ednuvoadmin',
     title: 'ednuvoadmin',
@@ -29,14 +39,14 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/vuetify
-    '@nuxtjs/vuetify','@nuxtjs/google-fonts'
+    '@nuxtjs/vuetify', '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    
+
     '@nuxtjs/auth-next',
   ],
 

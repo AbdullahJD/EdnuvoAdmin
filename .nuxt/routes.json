@@ -3,54 +3,63 @@
     "name": "funds",
     "path": "/funds",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\funds.vue",
-    "chunkName": "pages/funds"
+    "chunkName": "pages/funds",
+    "_name": "_46824edc"
   },
   {
     "name": "issues",
     "path": "/issues",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\issues.vue",
-    "chunkName": "pages/issues"
+    "chunkName": "pages/issues",
+    "_name": "_96dacbc8"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_3267fb12"
   },
   {
     "name": "notifications",
     "path": "/notifications",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\notifications.vue",
-    "chunkName": "pages/notifications"
+    "chunkName": "pages/notifications",
+    "_name": "_2d667a76"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\projects.vue",
-    "chunkName": "pages/projects"
+    "chunkName": "pages/projects",
+    "_name": "_73fa155c"
   },
   {
     "name": "users",
     "path": "/users",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\users.vue",
-    "chunkName": "pages/users"
+    "chunkName": "pages/users",
+    "_name": "_628e3996"
   },
   {
     "name": "violations",
     "path": "/violations",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\violations.vue",
-    "chunkName": "pages/violations"
+    "chunkName": "pages/violations",
+    "_name": "_cb928760"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_1d245f60"
   },
   {
     "name": "chat-id",
     "path": "/chat/:id?",
     "component": "C:\\\\Users\\\\HP\\\\OneDrive\\\\سطح المكتب\\\\MyFiles (Abdullah)\\\\newWork\\\\ednuvo_admin-main\\\\pages\\\\chat\\\\_id.vue",
-    "chunkName": "pages/chat/_id"
+    "chunkName": "pages/chat/_id",
+    "_name": "_d53b8520"
   }
 ]
